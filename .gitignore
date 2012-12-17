@@ -3,4 +3,4 @@ Thumbs.db
 *.hs
 haskell
 *sublime-work*
-
+*.out
